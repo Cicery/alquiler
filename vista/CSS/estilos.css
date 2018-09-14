@@ -1,0 +1,64 @@
+ 
+h1{
+	font-size: 45px;
+}
+
+.btn {
+
+    font-family: "Roboto", sans-serif;
+    background: #D4AB2E;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+    color: #FFFFFF;
+    font-size: 15px;
+	
+}
+.btn:hover {
+ background: #C17B02;   
+}
+
+.btn:disabled{
+	background: #FF0F0F;
+	font-size: 16px;
+}
+
+
+
+.message{
+    margin: 30px auto; 
+    padding: 10px; 
+    border-radius: 5px; 
+    color: #3c763d; 
+    background: #FFFFFF; 
+    border: none;
+    width: 50%;
+    text-align: center;
+
+}
+body{
+    position: absolute;
+}
+
+.head-index{
+    position: relative;
+}
+.nav-index{
+    position: relative;
+}
+.sect-index{
+    position: relative;
+   margin-top: 40px;
+    margin-bottom: 50px;
+    height: auto;
+}
+.foot-index{
+   
+    text-align: center;
+    width: 100%;
+    position: relative;
+    float: left;
+    margin-top: 50px;
+    border-top: 1px solid ;
+}

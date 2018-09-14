@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Carros>
+  <Carro idCarro="1">
+    <Placa>xxa123</Placa>
+    <Marca>Mazda</Marca>
+    <Color>Blanco</Color>
+  </Carro>
+  <Carro idCarro="2">
+    <Placa>ytz325</Placa>
+    <Marca>mercedez</Marca>
+    <Color>griz</Color>
+  </Carro>
+</Carros>
